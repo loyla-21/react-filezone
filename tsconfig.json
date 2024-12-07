@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "noImplicitOverride": true,
+      "esModuleInterop": true,
+      "strictNullChecks": true,
+      "target": "ES6",
+      "moduleResolution": "node",
+      "module": "ESNext",
+      "declaration": true,
+      "isolatedModules": true,
+      "outDir": "dist",
+      "noEmit": false,
+      "jsx": "react-jsx",
+      "declarationDir": "dist/types",
+      "lib": ["DOM", "DOM.Iterable","ES6"]
+    },
+    "include": ["src"],
+    "exclude": ["node_modules"]
+  }
+
+  

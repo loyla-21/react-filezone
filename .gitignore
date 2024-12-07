@@ -1,0 +1,22 @@
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Typescript
+*.tsbuildinfo
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
+
+# Project specific
+useUpload.tsx
+.npmignore
